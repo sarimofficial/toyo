@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=iJWKBXyXfDDVXYnDv1e6McFYDCz5L28AsMGvvyNqcSHk2wkIh82jGGEss_iWZ5XopbdMNd3T1zeypHRW&skey=1924b0eeab402e18&v=v13) format('woff2');
+}
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEyjlmf40v-DCz4L28SsMGlvyNScSHo2wkPh82_GGEts_ifZ5XspbdONd3S1zaMpHRQs4bi&skey=7e02db405fcfde6f&v=v13) format('woff2');
+}
